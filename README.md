@@ -1,4 +1,4 @@
 # yoga_student_app
 
-Flutter開發 yogaApp 學生版本
+Flutter開發 yogaApp （学生版）
 
